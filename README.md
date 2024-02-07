@@ -14,6 +14,6 @@ AlexNet was Fine Tuned to a binary classification task (Chair or Wine bottle)
 
 * The last Linear Layer was replaced with a Sequential Layer (Linear and ReLU) with a drop out of .4.
 
-* This was fed to a sigmoid for my binary classification (Chair or Wine bottle)
+* This was fed to a sigmoid for my binary classification (Chair or Wine bottle).
 
-* Trained and Validated my model
+* Trained the newly added Sequential layer and Validated my model.
